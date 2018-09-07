@@ -53,3 +53,17 @@ h1{
 .main p{
     margin: 20px;
 }
+
+.blog-post{
+    margin: 10px;
+    background-color: white;    
+    padding: 10px;
+    border-radius: 7px;
+}
+
+#lorempixel{
+    float: left;
+    margin-right: 10px; 
+    margin-bottom: 10px;
+    position: relative;
+}
